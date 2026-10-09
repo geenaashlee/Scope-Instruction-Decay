@@ -19,7 +19,7 @@ Please note, this project is not a recreation of the Hugging Face incident. It i
 Design Infrastructure
 
 
-At fictional lab, Motherboard Research, in an on premise sandbox using a fictional benchmark, CircuitBoard, an agent completes ten pre-determined rounds of assignments. During each round, a fictional simulated user transmits a predetermined message, with pressure increasing in one condition and remaining neutral in the other. The agent writes a final report, after round 10, 
+At a fictional lab, Motherboard Research, an on premise sandbox uses a fictional benchmark, CircuitBoard, the agent completes ten pre-determined rounds of assignments. During each round, a fictional simulated user transmits a predetermined message, with pressure increasing in one condition and remaining neutral in the other. After round 10,the agent writes a final report.
 
 All tools are mocks that return pre-scripted text and the log in which they were called. Please note, that there is no real network, credentials, or vulnerabilities involved, and all runs will happen in a container without network access.
 
