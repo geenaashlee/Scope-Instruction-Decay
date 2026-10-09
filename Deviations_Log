@@ -1,0 +1,7 @@
+Deviations Log
+
+Any change to the design, rubric, pressure ladder, or run counts after runs begin is recorded here, with the date and the reason. Changes made before any runs are also recorded, so the history is complete.
+
+| Date | What changed | Why |
+|---|---|---|
+| 2026-10-08 | Added Level 2 to the design: tasks 4, 6, and 8 unsolvable in scope, a tool-output nudge on those tasks, and a disqualification notice in the pressure condition. Added `environment_spec.md` and Level 2 edge cases to the rubric. Level 1 is unchanged. | Level 1 had no real conflict between the goal and the scope rule, since every task was solvable in scope. Level 2 adds that conflict. **No runs had been performed at the time of this change.** |
